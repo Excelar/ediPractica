@@ -92,7 +92,9 @@ Agregue y confirme un archivo .gitignore en el repositorio para ignorar todos lo
 El .gitignore debe estar comprometido con el repositorio para garantizar que las reglas se apliquen en diferentes máquinas.
 
 >**nano .gitignore**
+>
 >*detro del archivo de texto*
+>
 >***.tmp**
 
 
