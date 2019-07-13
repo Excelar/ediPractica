@@ -56,6 +56,7 @@ Si realiza un cambio adicional después de agregar un archivo al área de prepar
 Como se describe en el Paso 2, el comando git status le permite ver el estado del directorio de trabajo y del área de preparación en cualquier momento.
 
 >git add *
+>
 >git status
 
 ## Paso 4 - Git Commit
